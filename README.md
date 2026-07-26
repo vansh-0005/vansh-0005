@@ -87,6 +87,14 @@ A prediction model assessing forest fire likelihood from environmental and clima
 
 ---
 
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/w60RY5YpHh?theme=dark&font=Baloo%202&ext=heatmap" />
+</p>
+
+---
+
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-sharma-27117b350)
